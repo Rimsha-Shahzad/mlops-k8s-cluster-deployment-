@@ -1,0 +1,6 @@
+ml-env/
+ml-pipeline/__pycache__/
+ml-pipeline/mlartifacts/
+ml-pipeline/mlflow.db
+.cache/
+*.log
